@@ -30,7 +30,7 @@ To get a local copy up and running, follow these steps:
 1. *Clone the repository:*
 
    ```bash
-   git clone https://github.com/rinkyess/destination
+   git clone https://github.com/rinkyess/destination.git
 ![top](https://github.com/user-attachments/assets/bc193c94-462e-44e3-bd34-f52330cc437d)
 ![middle](https://github.com/user-attachments/assets/f5e6d3f8-7885-4176-bc40-bb7fc167e8b9)
 ![middle2](https://github.com/user-attachments/assets/3702f952-c2af-46cd-a4ce-0321ac22e7f1)
