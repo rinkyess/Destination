@@ -32,9 +32,12 @@ To get a local copy up and running, follow these steps:
    ```bash
    git clone https://github.com/rinkyess/destination
 ![top](https://github.com/user-attachments/assets/bc193c94-462e-44e3-bd34-f52330cc437d)
-![middle2](https://github.com/user-attachments/assets/149b70f4-950d-46de-877f-4d144163e7c5)
 ![middle](https://github.com/user-attachments/assets/f5e6d3f8-7885-4176-bc40-bb7fc167e8b9)
-![footer](https://github.com/user-attachments/assets/dbb212f8-d307-4452-b0b6-159ee1100cb2)
+![middle2](https://github.com/user-attachments/assets/3702f952-c2af-46cd-a4ce-0321ac22e7f1)
+![footer](https://github.com/user-attachments/assets/98022918-c04f-4956-abbd-942b9f832485)
+
+
+
 
 ## Contributing
 
